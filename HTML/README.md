@@ -3,10 +3,7 @@
 ##  <a href="https://theswapnilzambare.github.io/Web_Development/">Index of / Web Development Project</a>
 <hr>
 
-
-
-##  <a href="https://theswapnilzambare.github.io/Web_Development_Example/HTML/">1. HTML Project Demo 1</a>
-
+-  <a href="https://theswapnilzambare.github.io/Web_Development_Example/HTML/OnePageProject">1. HTML-CSS One Page Project</a>
 
 
 #################################
